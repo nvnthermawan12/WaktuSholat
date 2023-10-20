@@ -5,8 +5,8 @@ Terinspirasi dari program jadwal shalat dari pak Thomas Djamaluddin di bahasa pe
 ## Cara install
 * git clone repository ini
 * masuk folder proyek ini menggunakan terminal
-* swift build
-* ./build/debug/WaktuSholat
+* masuk ke folder WaktuSholat
+* swift main.swift
 
 ## contoh
 
