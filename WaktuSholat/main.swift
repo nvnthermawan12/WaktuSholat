@@ -14,7 +14,7 @@ var latitude: Double = 0
 
 print("Welcome to Swift Jadwal Shalat\n")
 
-print("Masukkan longitude\n")
+print("Masukkan longitude:\n")
 if let inputLongitude = readLine(), let longitudeValue = Double(inputLongitude) {
     longitude = longitudeValue
 } else {
@@ -22,7 +22,7 @@ if let inputLongitude = readLine(), let longitudeValue = Double(inputLongitude) 
     exit(1)
 }
 
-print("Masukkan latitude\n")
+print("Masukkan latitude:\n")
 if let inputLatitude = readLine(), let latitudeValue = Double(inputLatitude) {
     latitude = latitudeValue
 } else {
