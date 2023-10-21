@@ -28,9 +28,9 @@ untuk mendapatkan **localTime** berdasarkan posisi matahari yaitu waktu ketika m
 6. Sudut jam
    - sudut ini menunjukkan perbedaan waktu antara posisi matahari saat ini dan posisi matahari pada tengah hari
 
-**longitudeHours** konversi longitude yang di input user dari derajat ke jam
+**longitudeHours** konversi longitude yang di input user dari derajat ke jam.
 
-**timeZone** zona waktu indonesia utc +7
+**timeZone** zona waktu indonesia utc +7.
 
 ## Contoh
 | cara install |
