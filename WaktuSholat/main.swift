@@ -117,7 +117,7 @@ for days in daysInMonths {
         totalDaysPassed += 1
         
         // shubuh
-        calculatePrayerTime(hourAngle: 6, zenithAngle: 110 * .pi / 180)
+        calculatePrayerTime(hourAngle: 6, zenithAngle: 108 * .pi / 180)
         if abs(declinationAngle) <= 1 {
             prayerTimes[0] = sholatTime
         }
